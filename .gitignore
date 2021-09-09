@@ -1,0 +1,13 @@
+archive.zip
+.python-version
+COMANDOS UTEIS
+.vscode/
+trainingData/
+testData/
+data/
+archive.zip
+models/
+*.h5
+*.pyc
+__pycache__/
+modelgraphfinal.png
